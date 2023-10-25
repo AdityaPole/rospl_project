@@ -1,6 +1,13 @@
-# rospl_project
+# ROSPL_PROJECT
 
-A new Flutter project.
+A Flutter based TRAVEL APP.
+
+## Features of Project
+• Travel Guides.
+• Bookings.
+• Easy to use.
+• Offline Usage.
+
 
 ## Getting Started
 
